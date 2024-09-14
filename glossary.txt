@@ -1,0 +1,119 @@
+Rolling
+**Outcomes**
+1d6 from Edge
+Up To 3d6 from Skills
+Up To 2d6 from advantages
+
+6: Triumph
+4, 5: Conflict
+1-3: Disaster
+DBLs: Twist
+==========
+Predator 
+**Aspects**
+*Living Workshop*
+	Your own wreck-salvaged body contains an array of useful tools - your presence gives an automatic advantage on rolls taken to create temporary gear and machinery to all crewmates.
+
+*You Make Your Own Path*
+	Whenever you would receive a chart you may convert it to a piece of salvage and a whisper instead. Once per scene, treat a conflict as a triumph when rolling without the benefit of a skill.
+
+*Manifold Bow*
+	Finely-crafted bow paired with an expansive quiver. Can deal LR damage of three types chosen from the following list: Spike, Toxin, Blast, Volt, Salt.
+
+*Butchery Kit*
+	You can butcher dangerous specimens without risk or cutting for difficulty, and increase impact when gathering resources from a creature you've hunted.
+==========
+Jehlo
+**Aspects**
+*Voltaic Mantle*
+	The tendrils of your mantle crackle with lightning as they strike, dealing CQ volt damage.
+
+*Deeps-Badger Claws*
+	Used by their original owners to carve out places of safety amongst the lower regions of the waves. Deals CQ Keen damage, and you can use a task to lower the effective Pressure level of your immediate surroundings by one.
+
+*Howl of the Veil*
+	The echo of this terrible call in your mind dulls natural fear responses. Seeing leviathans and other bestial horrors offers whispers instead of mire.
+
+*Pressure Suit*
+	A clanking pressure-suit designed to allow its user to explore the depths.
+==========
+Nox
+**Aspects**
+*Iris Blossom*
+	You can see heat the way others see colour.
+
+*Ritual Mask*
+	You can clearly see spirits and the spectral realm.
+
+*Inscribed Root*
+	Mark to reshape nearby exposed wood into a useful obstacle. Mark mire to reshape nearby exposed wood into a winding path.
+
+*Stone-Bound Histories*
+	A tattered tome of ancient stories handed down by the eldest ektus survivors of the pre-verdant days. Use a task to gain a sliver of Pre-V information.
+==========
+Impact
+**Low Impact**
+Your action is weaker, having less effect on the world.
+This might reduce the number of boxes you mark or clear
+when affecting a track, or downgrade the raw power of
+whatever you’re attempting (such as only letting you
+kick a panel out of a door rather than kick the door
+fully open).
+
+**Normal Impact**
+Most actions you take throughout the game will have
+normal impact, with no special rules to follow at all.
+
+**High Impact**
+Your action is stronger and has more effect on the world .
+This normally lets you mark or clear an additional box
+when affecting a track, but in some circumstances might
+upgrade the raw power of whatever you’re attempting
+(such as letting you kick a door off of its hinges rather
+than just kick it open).
+
+**Massive Impact**
+Usually reserved for damage from ship-mounted
+armaments, an action with massive impact is terrifyingly
+potent. If you’re marking a track, mark every box (and
+if you're kicking a door open you might take part of the
+wall with it as well, even if you didn't mean to).
+==========
+Montages
+**Acquisition**
+Acquire resources in appropriate areas with three approaches:
+*Scavenging*: Salvage
+*Hunting*: Specimens
+*Gathering*: Specimens
+
+**Recovery**
+Requires a resource and uses the Recovery table:
+*Healing*: Requires a specimen. Clears marks from Traits or animals.
+*Repairing*: Requires a salvage. Clears marks from Gear or mechanicals.
+*Relaxing*: Requires a Whisper. Clears marks from Mires.
+
+**Creation**
+Combines resources to create temporary aspects:
+*Concocting*: Requires 2 resources of any type. Make a related potion.
+*Cooking*: Requires 2 specimens. Makes a full meal with a related property.
+*Crafting*: Requires 2 salvage. Makes a piece of useful temporary gear.
+==========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

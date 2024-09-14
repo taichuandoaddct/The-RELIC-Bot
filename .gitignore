@@ -1,0 +1,2 @@
+.env           # Ignore the .env file with sensitive info
+.idea/
